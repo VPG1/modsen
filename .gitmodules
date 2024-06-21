@@ -1,3 +1,6 @@
 [submodule "test_project_for_modsen"]
 	path = test_project_for_modsen
 	url = https://github.com/VPG1/test_project_for_modsen
+[submodule "JS-Practice-HTTP"]
+	path = JS-Practice-HTTP
+	url = https://github.com/VPG1/JS-Practice-HTTP
